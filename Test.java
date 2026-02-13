@@ -5,7 +5,7 @@ public class Test {
         int a=100;
         int b=200;
         int res=a+b;
-        System.out.println("The result is " +res)
+        System.out.println("The result is " +res);
         System.out.println("Welcome to Jenkins");
     }
     public static void main(String[] args)
