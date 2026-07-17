@@ -8,7 +8,7 @@ public class Test {
         System.out.println("The result is " +res);
         system.out.println("Welcome to Jenkins")
     }
-    public static void main(String[] args)
+
     {
         add()
     }
